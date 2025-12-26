@@ -41,3 +41,17 @@ flutter test
 1. Clone the repository.
 2. Run `flutter pub get`.
 3. Run `flutter run`.
+
+## Screenshots
+
+| Users List | Chat History |
+| :---: | :---: |
+| <img src="screenshots/users_list.png" width="300"/> | <img src="screenshots/chat_history.png" width="300"/> |
+
+| Chat Conversation | Chat Details |
+| :---: | :---: |
+| <img src="screenshots/chat_conversation.png" width="300"/> | <img src="screenshots/chat_alice.png" width="300"/> |
+
+| Empty Chat |
+| :---: |
+| <img src="screenshots/chat_empty.png" width="300"/> |
