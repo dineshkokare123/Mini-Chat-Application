@@ -48,10 +48,10 @@ flutter test
 | :---: | :---: |
 | <img src="screenshots/users_list.png" width="300"/> | <img src="screenshots/chat_history.png" width="300"/> |
 
-| Chat Conversation | Chat Details |
+| Chat Conversation 1 | Chat Conversation 2 |
 | :---: | :---: |
-| <img src="screenshots/chat_conversation.png" width="300"/> | <img src="screenshots/chat_alice.png" width="300"/> |
+| <img src="screenshots/chat_conversation.png" width="300"/> | <img src="screenshots/chat_maya.png" width="300"/> |
 
-| Empty Chat |
-| :---: |
-| <img src="screenshots/chat_empty.png" width="300"/> |
+| Chat Details | Empty Chat |
+| :---: | :---: |
+| <img src="screenshots/chat_alice.png" width="300"/> | <img src="screenshots/chat_empty.png" width="300"/> |
